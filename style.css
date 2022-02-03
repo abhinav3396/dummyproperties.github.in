@@ -117,7 +117,7 @@ header .icons #menu-bars{
 
 .home{
     min-height: 100vh;
-    background:url(home.jpg) no-repeat;
+    background:url(icon-0.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
